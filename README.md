@@ -32,7 +32,7 @@ To run the application, follow these steps:
 
 **Clone the repository**
 ```bash
-   https://github.com/iranmederos/florens_api.git
+  https://github.com/iranmederos/florens_api.git
 ```
 
 **Install the required dependencies by running**
